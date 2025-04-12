@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">url-expander</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">About</string>
+    <string name="url_input_hint">Please input DIRTY URL here.</string>
+    <string name="app_title">URL Expander</string>
+    <string name="paste_url_from_clipblard">Paste From Clipboard</string>
+    <string name="get_clean_url">Expand URL!</string>
+    <string name="copy_clean_url">Copy Clean URL</string>
+    <string name="open_clean_url">Open Clean URL</string>
+    <string name="share_url">Share Clean URL</string>
+    <string name="output_url">Clean URL</string>
+</resources>
